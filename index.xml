@@ -6,7 +6,7 @@
     <description>Recent content in 欢迎 on YYHAN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 May 2024 16:11:32 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 20:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://helloliver.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,30 @@
     <item>
       <title>碰撞恢复控制</title>
       <link>https://helloliver.github.io/posts/tx_uav_collision_recovery/</link>
-      <pubDate>Mon, 13 May 2024 16:11:32 +0800</pubDate>
+      <pubDate>Sun, 05 May 2024 20:00:00 +0800</pubDate>
       
       <guid>https://helloliver.github.io/posts/tx_uav_collision_recovery/</guid>
       <description>碰撞恢复控制 视频链接
    有导纳控制 无导纳控制         视频链接 视频链接    视频链接</description>
+    </item>
+    
+    <item>
+      <title>多旋翼无人机参数辨识</title>
+      <link>https://helloliver.github.io/posts/mav_parameter_identification/</link>
+      <pubDate>Thu, 20 Apr 2023 15:00:00 +0800</pubDate>
+      
+      <guid>https://helloliver.github.io/posts/mav_parameter_identification/</guid>
+      <description>视频链接</description>
+    </item>
+    
+    <item>
+      <title>多旋翼无人机力估计</title>
+      <link>https://helloliver.github.io/posts/mav_wrench_estimation/</link>
+      <pubDate>Wed, 15 Feb 2023 20:00:00 +0800</pubDate>
+      
+      <guid>https://helloliver.github.io/posts/mav_wrench_estimation/</guid>
+      <description>多旋翼无人机力估计 级联架构下的外力估计 视频链接
+Y. Yin, Q. Yang and H. Fang, &amp;quot;Error-State Kalman Filter Based External Wrench Estimation for MAVs Under a Cascaded Architecture,&amp;quot; 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023, pp. 5019-5026, doi: 10.1109/IROS55552.2023.10342358. </description>
     </item>
     
   </channel>

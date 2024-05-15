@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/yyhan/.workspace/quickstart",
+	"sourceRoot": "C:/Users/hello/quickstart",
 	"sources": [
 		"stdin"
 	],

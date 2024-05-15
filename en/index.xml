@@ -6,7 +6,7 @@
     <description>Recent content in Welcome on YYHAN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 May 2024 16:11:32 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 20:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://helloliver.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,30 @@
     <item>
       <title>Collision Recovery Control</title>
       <link>https://helloliver.github.io/en/posts/tx_uav_collision_recovery/</link>
-      <pubDate>Mon, 13 May 2024 16:11:32 +0800</pubDate>
+      <pubDate>Sun, 05 May 2024 20:00:00 +0800</pubDate>
       
       <guid>https://helloliver.github.io/en/posts/tx_uav_collision_recovery/</guid>
-      <description>Collision Recovery Control vedio
-   with admittance control without admittance control         vedio vedio    vedio</description>
+      <description>Collision Recovery Control video
+   with admittance control without admittance control         video video    video</description>
+    </item>
+    
+    <item>
+      <title>Parameter Identification for MAVs</title>
+      <link>https://helloliver.github.io/en/posts/mav_parameter_identification/</link>
+      <pubDate>Thu, 20 Apr 2023 15:00:00 +0800</pubDate>
+      
+      <guid>https://helloliver.github.io/en/posts/mav_parameter_identification/</guid>
+      <description>视频链接</description>
+    </item>
+    
+    <item>
+      <title>External Wrench Estimation for MAVs</title>
+      <link>https://helloliver.github.io/en/posts/mav_wrench_estimation/</link>
+      <pubDate>Wed, 15 Feb 2023 20:00:00 +0800</pubDate>
+      
+      <guid>https://helloliver.github.io/en/posts/mav_wrench_estimation/</guid>
+      <description>External Wrench Estimation External Wrench Estimation for MAVs under a Cascaded Architecture video
+Y. Yin, Q. Yang and H. Fang, &amp;quot;Error-State Kalman Filter Based External Wrench Estimation for MAVs Under a Cascaded Architecture,&amp;quot; 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023, pp. 5019-5026, doi: 10.1109/IROS55552.2023.10342358. </description>
     </item>
     
   </channel>
